@@ -1,2 +1,2 @@
 # kucs
-Koutsies unnecesary complicated scripts.
+Koutsies unnecessary complicated scripts.
