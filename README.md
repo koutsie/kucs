@@ -11,11 +11,10 @@ This script/config/alias package consists of:
 wich are also required to use Kucs.
 
 
-
 File/Directory structure: 
 -
 
-Configs **should** be in: /home/user/.config/kucs/bash.sh
+Bash´s startup script **should** be in: /home/user/.config/kucs/bash.sh
 
 
 Scripts **should** be in: /home/user/scripts/
@@ -23,3 +22,5 @@ Scripts **should** be in: /home/user/scripts/
 
 Configs **should** be in: /home/user/.config/kucs/config.k
 
+How to use?
+-
