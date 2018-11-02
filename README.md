@@ -8,6 +8,8 @@ This script/config/alias package consists of:
 3. **screen** (*https://wiki.archlinux.org/index.php/GNU_Screen*) // (*https://www.gnu.org/software/screen/*)
 4. **redshift** (*https://github.com/jonls/redshift*)
 5. **aliasme** (*https://github.com/Jintin/aliasme*)
+
+
 wich are also required to use Kucs.
 
 
