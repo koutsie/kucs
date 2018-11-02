@@ -7,6 +7,7 @@ This script/config/alias package consists of:
 2. **lolcat-c**
 3. **screen**
 4. **redshift**
+
 wich are also required to use Kucs.
 
 File/Directory structure: 
