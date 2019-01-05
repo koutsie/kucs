@@ -1,4 +1,4 @@
-#Kucs startup file: add this to your bash startup file (.bashrc): "bash /home/$USER/.config/kucs/bash.sh (and make it executeable by doing chmod +x bash.sh)
+#Kucs startup file: add this to your bash startup file (.bashrc): "bash /home/$USER/.config/kucs/bash.sh" (and make it executeable by doing chmod +x bash.sh)
 cd /home/$USER/scripts && echo "Scripts installed: $(ls -a | wc -l)" | lolcat-c
 cd $home
 echo "---" | lolcat-c
