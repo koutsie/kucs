@@ -1,3 +1,6 @@
+# **HOLY FUCK THIS WAS A MISTAKE**
+--------
+
 # Kucs
 Koutsies unnecessary complicated scripts.
 
